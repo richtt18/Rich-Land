@@ -6,7 +6,7 @@ import CartCounter from '../Cart/CartCounter';
 
 import Modern from '../../assets/img/modern.png';
 import Silver from '../../assets/img/silver.png';
-import Bright from '../../assets/img/bright.png';
+import Bright from '../../assets/img/eth.png';
 import Unique from '../../assets/img/unique.png';
 
 const StylesHeader = ({ style, header }) => {
