@@ -51,7 +51,7 @@ class Categories extends Component {
               if (CatProduct.background_colour) {
                 background = CatProduct.background_colour;
               } else {
-                background = '#d9d9d9';
+                background = 'assets/img/header/skatenet.jpg';
               }
 
               return (
@@ -69,7 +69,7 @@ class Categories extends Component {
                       e.preventDefault();
                     }}>
                     {category.name}
-                    <span className="hide-content"> lamps</span>
+                    <span className="hide-content"> GooDS $</span>
                   </h3>
                   <ProductImage
                     product={CatProduct}
@@ -82,7 +82,7 @@ class Categories extends Component {
                     style={{ background: '#4d4d4d' }}>
                     Shop{' '}
                     <span className="hide-content">
-                      our {category.name} collection{' '}
+                      our {category.name} collection{' Goods$ '}
                     </span>now
                   </div>
                 </a>
