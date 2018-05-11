@@ -7,6 +7,7 @@ class TopPicksContainer extends Component {
       <section className="top-picks">
         <div className="content">
           <h2>Dope Shit</h2>
+          <h6>You can buy it today!</h6>
           <div className="product-list">
             <TopPicks />
           </div>

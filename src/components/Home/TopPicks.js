@@ -87,7 +87,7 @@ class TopPicks extends Component {
       TopPicksProductIDs = null;
       return (
         <div className="content">
-          <p>You do not have any products attached to a collection.</p>
+          <p>Dont go in the matrix.</p>
         </div>
       );
     }

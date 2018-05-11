@@ -11,7 +11,7 @@ class ProductsHeader extends Component {
         <div className="nav-container">
           <nav className="primary-nav">
             <Link to="/products">Products</Link>
-            <Link to="/styles">Styles</Link>
+            <Link to="/styles">Styles CALL 703 864 7673 NOW</Link>
           </nav>
           <div className="logo">
             <Link to="/" className="logo-link">

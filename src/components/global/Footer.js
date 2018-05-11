@@ -55,7 +55,7 @@ const Footer = () => (
             </div>
             <p>
               Do you really love Rich Schmitt, or are you just saying it because you
-              saw it?
+              saw it on the internet?
             </p>
           </div>
           <nav className="footer-links">
@@ -114,7 +114,7 @@ const Footer = () => (
                 <a href="/">Privacy Policy</a>
               </dd>
               <dd>
-                <a href="/">T&Cs</a>
+                <a href="/">Rich Land Productions 2018</a>
               </dd>
             </dl>
           </nav>

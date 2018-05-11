@@ -70,7 +70,7 @@ class StylesContainer extends Component {
               </section>
               <section className="products">
                 <div className="content">
-                  <p>You do not have any categories set up with products</p>
+                  <p>We love skateboards</p>
                 </div>
               </section>
             </main>

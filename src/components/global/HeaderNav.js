@@ -7,7 +7,7 @@ const HeaderNav = () => (
   <div className="nav-container">
     <nav className="primary-nav light">
       <Link to="/products">Products </Link>
-      <Link to="/styles">Styles </Link>
+      <Link to="/styles">Styles *** CALL 1 800 222 8766</Link>
     </nav>
     <div className="logo light">
       <Link to="/" className="logo-link">

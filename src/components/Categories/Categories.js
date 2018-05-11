@@ -90,7 +90,7 @@ class Categories extends Component {
             } else {
               return (
                 <div className="content">
-                  <p>No products related to your categories</p>
+                  <p>Skate or die</p>
                 </div>
               );
             }

@@ -69,7 +69,8 @@ class StyleProducts extends Component {
     } catch (err) {
       return (
         <div className="content">
-          <h2>Your category has no attached products</h2>
+          <h2>Skate or die.</h2>
+          <h3>we love skateboards</h3>
         </div>
       );
     }
