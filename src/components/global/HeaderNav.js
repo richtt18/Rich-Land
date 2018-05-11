@@ -6,8 +6,8 @@ import CartCounter from '../Cart/CartCounter';
 const HeaderNav = () => (
   <div className="nav-container">
     <nav className="primary-nav light">
-      <Link to="/products">Products by Rich</Link>
-      <Link to="/styles">Styles</Link>
+      <Link to="/products">Products </Link>
+      <Link to="/styles">Styles </Link>
     </nav>
     <div className="logo light">
       <Link to="/" className="logo-link">

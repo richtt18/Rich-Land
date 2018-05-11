@@ -10,7 +10,7 @@ const Footer = () => (
         <div className="footer-content">
           <div className="footer-about">
             <div className="footer-header">
-              <span className="hide-content">I love lamp</span>
+              <span className="hide-content">I love Rich</span>
               <svg
                 xmlns="http://www.w3.org/2000/svg"
                 viewBox="0 0 512.25684 46.73779"
@@ -121,7 +121,7 @@ const Footer = () => (
           <nav className="footer-social">
             <dl>
               <dt className="footer-header">
-                <span className="hide-content">We love social</span>
+                <span className="hide-content">We love skate boards</span>
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   viewBox="0 0 717.25684 46.73779"

@@ -36,7 +36,7 @@ class StyleProducts extends Component {
             if (product.background_colour) {
               background = product.background_colour;
             } else {
-              background = '#d9d9d9';
+              background = 'blue';
             }
 
             return (
@@ -52,7 +52,7 @@ class StyleProducts extends Component {
                 <div className="overlay">
                   <div
                     className="overlay-background"
-                    style={{ background: '#aaaaaa' }}
+                    style={{ background: 'blue' }}
                   />
                   <div className="overlay-content">
                     <div className="title">{product.name}</div>
