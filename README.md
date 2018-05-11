@@ -1,11 +1,11 @@
 
 # Rich Land
--open source online store
-+$RPS. A Node.js and React Storefront Web application for rare items. PALACE2018 
+-open source online storefront
++$RPS. A Node.js and React Web application for collecting rare items. 
 +
 +## Description
-+RAmazon is a simple Node.js and React storefront application that uses Ethereum to make trasactions for clothing, skateboards, and drones. 
-
++Rich Land is a simple Node.js and React storefront application the runns as a single page on your browser.It uses Ethereum to make trasactions for clothing, skateboards, and drones  
+on Brave MetaMAsk.
 +## Installation
 +Rich Land utilizes yarn to install. 
 
