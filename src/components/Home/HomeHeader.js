@@ -20,8 +20,8 @@ const HomeHeader = props => (
     <div className="header-container">
       <div className="content">
         <h1>  Who is Rich Schmitt? </h1>
-        <Link to="/products" className="btn">$
-          Rich-Land Internet Store Gate $
+        <Link to="/products" className="btn">
+          Rich Land Internet Store Gate ETH BTC $$$
         </Link>
       </div>
     </div>

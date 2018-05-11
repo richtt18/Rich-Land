@@ -87,7 +87,7 @@ class TopPicks extends Component {
       TopPicksProductIDs = null;
       return (
         <div className="content">
-          <p>Dont go in the matrix.</p>
+          <p>Dont go in the matrix. CALL 1 800 858 6555 NOW</p>
         </div>
       );
     }
